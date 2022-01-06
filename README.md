@@ -1,2 +1,2 @@
 # ink
-A CLI based note taking app built using Rust.
+A multipurpose CLI based app built using Rust.
